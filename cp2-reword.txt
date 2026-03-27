@@ -1,0 +1,11 @@
+42a4d1f (HEAD -> main) cp1
+e21eff3 otro commit
+d94f74a linea extra 2 en app
+01271da añadir linea extra 1 en app
+6b4f084 commit 1, version inicial
+3642e61 (origin/main, origin/HEAD) add deadline
+bb807e3 Initial commit
+
+===
+
+En el contexto de un rebase en Git, reword quiere decir que vamos a cambiar el nombre del commit sin hacer ningún otro cambio
