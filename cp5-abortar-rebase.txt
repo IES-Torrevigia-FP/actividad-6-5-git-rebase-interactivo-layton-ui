@@ -1,0 +1,15 @@
+=== EJEMPLO ===
+
+mint@layton-mint-VirtualBox:~/dev/actividad-6-5-git-rebase-interactivo-layton-ui$ git rebase -i HEAD~6
+error: could not parse 'f7b451ac'
+error: invalid line 3: pick f7b451ac cp2
+error: could not parse 'a846a86d'
+error: invalid line 4: pick a846a86d cp3
+You can fix this with 'git rebase --edit-todo' and then run 'git rebase --continue'.
+Or you can abort the rebase with 'git rebase --abort'.
+mint@layton-mint-VirtualBox:~/dev/actividad-6-5-git-rebase-interactivo-layton-ui$ git rebase --abort
+
+===
+
+Podemos usar "--abort" con varios comandos, y se utiliza cuando haces un error o generas un conflicto para revertir el proceso entero.
+En el ejemplo, hemos usado unos hash inválidos a propósito. Podemos ir atrás y corregir nuestros errores.
