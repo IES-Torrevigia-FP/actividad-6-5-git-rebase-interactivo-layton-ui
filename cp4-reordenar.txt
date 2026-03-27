@@ -1,0 +1,23 @@
+=== ANTES ===
+
+620a466 (HEAD -> main) cp2
+55f3ed7 cp1
+3455686 añadir varias lineas en app
+6b4f084 commit 1, version inicial
+3642e61 (origin/main, origin/HEAD) add deadline
+bb807e3 Initial commit
+
+=== DESPUÉS ===
+
+4afa3f4 (HEAD -> main) cp1
+a46a86d cp3
+f7451ac cp2
+3455686 añadir varias lineas en app
+6b4f084 commit 1, version inicial
+3642e61 (origin/main, origin/HEAD) add deadline
+bb807e3 Initial commit
+
+===
+
+Nos puede resultar útil reordenar commits para saber, no la orden de la fecha, sino la orden de importancia, por ejemplo si introducimos una funcionalidad, podemos mover 
+otros commits relacionados a después de ella.
