@@ -1,0 +1,10 @@
+620a466 (HEAD -> main) cp2
+55f3ed7 cp1
+3455686 añadir varias lineas en app
+6b4f084 commit 1, version inicial
+3642e61 (origin/main, origin/HEAD) add deadline
+bb807e3 Initial commit
+
+===
+
+Si varios commits hacen cosas parecidas en un tiempo, podemos agruparlos con "squash" para que todos los cambios estén en un mismo sitio.
